@@ -9,8 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        coal: "var(--coal)",
+        chalk: "var(--chalk)",
+        volt: "var(--volt)",
+        plasma: "var(--plasma)",
+        slate: "var(--slate)",
+      },
+      fontFamily: {
+        sans: ["var(--font-barlow)", "sans-serif"],
+        condensed: ["var(--font-barlow-condensed)", "sans-serif"],
       },
     },
   },
