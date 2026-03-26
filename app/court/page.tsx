@@ -73,7 +73,7 @@ export default function CourtPage() {
             We&apos;ll reach out when Padel Eleven launches in your city.
           </p>
           <Link href="/" className="font-sans font-medium text-plasma hover:opacity-80 transition-opacity">
-            ← Back to padelelevn.com
+            ← Back to Padel Eleven
           </Link>
         </div>
       </main>
